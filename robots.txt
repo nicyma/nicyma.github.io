@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nicyma.github.io/sitemap/sitemap.ZOM.gz
